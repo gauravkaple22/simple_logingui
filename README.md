@@ -1,4 +1,4 @@
-# simple_logingui
+# simple_login_gui with use database
 Welcome to simple login form of gui
 
 
