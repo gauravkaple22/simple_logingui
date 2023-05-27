@@ -74,7 +74,7 @@ class LoginForm:
             return False
 
     def password_check(self):
-        My_password = "7"
+        My_password = "******"
         password = self.ent2.get()
 
         if password == My_password:
