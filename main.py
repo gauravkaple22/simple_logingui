@@ -210,7 +210,7 @@ class SecondaryGUI:
         connection = mysql.connector.connect(
             host="localhost",
             user="root",
-            password="lucifer*7812",
+            password="************",
             database=" form_data"
         )
 
